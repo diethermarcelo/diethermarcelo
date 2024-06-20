@@ -1,4 +1,4 @@
-<h3 align="left">Hello there! 👋</h3>
+<h2 align="left">Hello there! 👋</h2>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">I'm Diether Marcelo from Philippines<br><br>- 🔭 I’m working as Software Engineer</p>
+<p align="left">I'm Diether Marcelo from the Philippines<br><br>- 🔭 I am working as a Software Engineer</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools:</h3>
+<h3 align="left">🛠 Language and Tools:</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats:</h3>
+<h3 align="left">🔥   My Statistics:</h3>
 
 ###
 
