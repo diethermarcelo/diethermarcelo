@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Diether Marcelo from the Philippines<br><br>- 🔭 I am working as a Software Engineer. I have develop web applications from small to huge businesses and even built web applications for corporations as huge as SM, Ayala, Samsung, Metrobank, etc.</p>
+<p align="left">I'm Diether Marcelo from the Philippines<br><br>- 🔭I am a Software Engineer with a strong track record in developing web applications for a diverse range of clients, from small startups to large corporations. My experience includes creating tailored solutions for industry leaders such as SM, Ayala, Samsung, and Metrobank. I thrive on the challenge of building robust, scalable applications that meet the unique needs of each business.</p>
 
 ###
 
